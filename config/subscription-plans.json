@@ -1,0 +1,30 @@
+[
+  {
+    "plan": "DAILY",
+    "name": "Gói Hằng Ngày",
+    "priceId": "price_1Rbe20Qio7GlybOezIaZp2nw",
+    "amount": 1000,
+    "currency": "VND"
+  },
+  {
+    "plan": "MONTHLY",
+    "name": "Gói Hằng Tháng",
+    "priceId": "price_1Rbe2bQio7GlybOe9rQGe4qx",
+    "amount": 20000,
+    "currency": "VND"
+  },
+  {
+    "plan": "QUARTERLY",
+    "name": "Gói Hằng Quý",
+    "priceId": "price_1Rbe2nQio7GlybOeDzwstcTS",
+    "amount": 45000,
+    "currency": "VND"
+  },
+  {
+    "plan": "YEARLY",
+    "name": "Gói Hằng Năm",
+    "priceId": "price_1Rbe3JQio7GlybOezRq1Ziek",
+    "amount": 150000,
+    "currency": "VND"
+  }
+]
